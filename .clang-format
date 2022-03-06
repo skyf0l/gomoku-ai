@@ -1,0 +1,11 @@
+---
+Language: Cpp
+BasedOnStyle: WebKit
+AllowShortFunctionsOnASingleLine: None
+BreakBeforeBinaryOperators: NonAssignment
+ColumnLimit: 160
+DeriveLineEnding: false
+PointerAlignment: Right
+KeepEmptyLinesAtTheStartOfBlocks: false
+SpaceAfterCStyleCast: true
+AlwaysBreakTemplateDeclarations: true

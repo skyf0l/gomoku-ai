@@ -1,0 +1,66 @@
+# binaries
+pbrain-gomoku-ai
+pbrain-gomoku-ai.exe
+
+# cmake
+Makefile
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+build
+!/Makefile
+
+# compil
+**/*.o
+*.d
+*.gch
+
+# tests
+tests_run
+unit_tests
+*.gcda
+*.gcno
+*.gcov
+
+# debug
+vgcore.*
+debug
+**/*.ilk
+**/*.pdb
+peda-session-*.txt
+
+# other
+*.log
+.vs
+.vscode
+piskvork
+
+# Windows / VisualStudio Project
+
+# Project
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
